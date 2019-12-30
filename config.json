@@ -1,0 +1,6 @@
+{
+    "app_name":"cake",
+    "port":"8080",
+    "static_path":"",
+    "mode":"dev"
+}
